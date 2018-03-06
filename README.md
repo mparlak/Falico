@@ -1,6 +1,6 @@
 # Falico
 
-# Fast Lightweight Command Query Responsibility Segregation (CQRS)
+Fast Lightweight Command Query Responsibility Segregation (CQRS)
 
 Falico use Autofac for dependecy injection.
 
